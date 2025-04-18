@@ -1,0 +1,14 @@
+body{
+
+}
+
+#menu{
+    float: left;
+    display: inline;
+
+}
+
+#social{
+    float:right;
+    display: inline;
+}
