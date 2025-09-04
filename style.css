@@ -3,12 +3,15 @@ body{
 }
 
 #menu{
-    float: left;
-    display: inline;
+    float: top;
+    text-align: center;
+    text-decoration: none;
+
 
 }
 
 #social{
-    float:right;
+    float:top;
     display: inline;
+    text-align: right;
 }
